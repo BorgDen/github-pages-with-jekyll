@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to the Borg Blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Lower your sheilds, and prepare to be boarded!
+Resistance is Futile!
